@@ -13,3 +13,5 @@ Get-Service adws,kdc,netlogon,dns
 Get-smbshare
 
 Write-Host -ForegroundColor yellow "Check for errors."
+
+#line 4, can be changed to nickname? - oliver santiago

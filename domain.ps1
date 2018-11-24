@@ -48,3 +48,5 @@ Install-WindowsFeature AD-Domain-Services -IncludeManagementTools | Out-Null
 Install-ADDSForest -DomainName $domainname
 
 # the machine will now reboot
+
+#seems find to me, no errors found - oliver santiago
